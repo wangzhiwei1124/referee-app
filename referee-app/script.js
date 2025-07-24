@@ -1,5 +1,5 @@
 // **重要**：这里已经为您更新为您的自定义域
-const WORKER_URL = 'https://referee.wangzhiwei.ip-ddns.com';
+const WORKER_URL = 'https://8888.wangzhiwei1124.dpdns.org';
 
 // 获取页面元素
 const listView = document.getElementById('listView');
